@@ -56,12 +56,12 @@ button {
 
 .modal-content {
   background-color: #fefefe;
-  margin: 10% auto; 
+  margin: 10% auto; /* Centra verticalmente */
   padding: 20px;
   border: 1px solid #888;
   width: 80%;
-  max-width: 400px; 
-  text-align: center; 
+  max-width: 400px; /* Ancho máximo del modal */
+  text-align: center; /* Centra horizontalmente */
   position: relative;
 }
 
