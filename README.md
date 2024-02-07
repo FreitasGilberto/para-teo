@@ -19,7 +19,7 @@
 
 Si deseas personalizar la página para tu propia ocasión especial, aquí hay algunas sugerencias:
 
-- Puedes añadir mas gifs al array que se adapten a tus gustos.
+- Cambia los gifs del Array o añade nuevos.
 - Modifica los estilos CSS en `style.css` para personalizar la apariencia de la página según tus preferencias.
 - Actualiza el contenido en `index.html` para hacer preguntas o mensajes personalizados.
 
