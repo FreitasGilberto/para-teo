@@ -7,7 +7,6 @@
 - **index.html:** Este archivo contiene la estructura HTML de la página web. Es aquí donde se encuentra la pregunta y los botones de respuesta.
 - **styles.css:** Este archivo contiene los estilos CSS que hacen que la página se vea atractiva y sea responsive en diferentes dispositivos.
 - **script.js:** Este archivo contiene la lógica JavaScript que controla el comportamiento de la página, como el despliegue del modal y el efecto de crecimiento del botón "Sí".
-- **kissy-kiss.gif:** Este es el gif especial que se mostrará cuando se haga clic en el botón "Sí".
 
 ## Cómo Usar
 
@@ -20,7 +19,7 @@
 
 Si deseas personalizar la página para tu propia ocasión especial, aquí hay algunas sugerencias:
 
-- Cambia el gif `kissy-kiss` por uno que se adapte a tu tema o gusto.
+- Puedes añadir mas gifs al array que se adapten a tus gustos.
 - Modifica los estilos CSS en `style.css` para personalizar la apariencia de la página según tus preferencias.
 - Actualiza el contenido en `index.html` para hacer preguntas o mensajes personalizados.
 
